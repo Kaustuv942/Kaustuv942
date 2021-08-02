@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Kaustuv Kanchan Chattopadhyay</h1>
-<h3 align="center">Backend Web Dev | Competitive Programmer</h3>
+<h3 align="center">Full Stack Backend Dev | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustuv942&label=Profile%20views&color=0e75b6&style=flat" alt="kaustuv942" /> </p>
 
