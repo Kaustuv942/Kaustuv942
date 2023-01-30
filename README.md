@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustuv942" alt="kaustuv942" /></a> </p>
 
-- 🔭 Most recent project- [eSim-Cloud](https://github.com/frg-fossee/eSim-Cloud)
+- 🔭 Most recent project- [faculty-vacancy-app](https://github.com/Tech-Stark/faculty-vacancy-backend)
 
 - 🌱 I’m currently learning **Reactjs**
 
